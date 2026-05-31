@@ -1,5 +1,5 @@
 <?php
-// Incluye la clase de autenticación
+// Incluye la clase de autenticación, CDCR
 require_once __DIR__ . '/config/Auth.php';
 
 // Si el usuario ya está autenticado, lo redirige al inicio
